@@ -1,0 +1,8 @@
+# ignore everything ...
+/*
+# ... but the following
+!/.gitignore
+!/*.md
+!/LICENSE
+!/rules
+!/templates
